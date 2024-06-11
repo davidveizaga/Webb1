@@ -1,0 +1,11 @@
+.text-justify{
+    
+}
+
+.icono{
+    height: 100px;
+    width: 100px;
+}
+.rigth{
+    justify-content: right;
+}
